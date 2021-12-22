@@ -56,8 +56,9 @@ I have a passion for **learning** new languages and technologies to improve my s
   - Laravel ⭐⭐⭐⭐⭐
   - [Yii Framework](https://yiiframework.com/) ⭐⭐⭐⭐
   - Microsoft [ASP.NET](http://ASP.NET) MVC ⭐
-  - Apache/Nginx
+  - Familiarity with AWS
   - Docker and Docker Compose
+  - Apache/Nginx
   - Node.js
   - Vue.JS / Nuxt.js
   - Tailwind CSS
