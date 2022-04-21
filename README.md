@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 > I am a Software Engineer with six years of experience and am curious about the concepts and principles that empower the tools and technologies. My objective is to improve my skills day after day to do great work that improves people’s lives.
 
----
+<details>
+<summary>See more...</summary>
 
 # ⛷️ Skills
 
@@ -30,8 +31,6 @@ Here are some ideas to get you started:
 **While full-stack,** I am familiar with new technologies like **Nuxt.js**, **Tailwind**, **Livewire**, and **Inertia.js**.
 
 I have a passion for **learning** new languages and technologies to improve my skills and do great work that improves people’s lives.
-<details>
-  <summary>See more...</summary>
   
   ## 💻 Software Engineering
 
